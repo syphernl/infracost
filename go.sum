@@ -91,8 +91,9 @@ github.com/armon/go-radix v1.0.0/go.mod h1:ufUuZ+zHj4x4TnLV4JWEpy2hxWSpsRywHrMgI
 github.com/aws/aws-sdk-go v1.15.78 h1:LaXy6lWR0YK7LKyuU0QWy2ws/LWTPfYV/UgfiBu4tvY=
 github.com/aws/aws-sdk-go v1.15.78/go.mod h1:E3/ieXAlvM0XWO57iftYVDLLvQ824smPP3ATZkfNZeM=
 github.com/aws/aws-sdk-go-v2 v1.11.1/go.mod h1:SQfA+m2ltnu1cA0soUkj4dRSsmITiVQUJvBIZjzfPyQ=
-github.com/aws/aws-sdk-go-v2 v1.14.0 h1:IzSYBJHu0ZdUi27kIW6xVrs0eSxI4AzwbenzfXhhVs4=
 github.com/aws/aws-sdk-go-v2 v1.14.0/go.mod h1:ZA3Y8V0LrlWj63MQAnRHgKf/5QB//LSZCPNWlWrNGLU=
+github.com/aws/aws-sdk-go-v2 v1.15.0 h1:f9kWLNfyCzCB43eupDAk3/XgJ2EpgktiySD6leqs0js=
+github.com/aws/aws-sdk-go-v2 v1.15.0/go.mod h1:lJYcuZZEHWNIb6ugJjbQY1fykdoobWbOS7kJYb4APoI=
 github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.3.0 h1:bvPWVPRI6ZvziAbBR1OUSqErPxJzDkXTrZPN+UMMbjg=
 github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.3.0/go.mod h1:bzV23FofBz0AUG8X+eIVB1cGQOoJ8XnH0Vkn3qefE9Q=
 github.com/aws/aws-sdk-go-v2/config v1.10.3 h1:Hr6xmlQPtoEriXeLl8cQYJD2hkhJNAW5PVM0lHvopnQ=
@@ -137,8 +138,9 @@ github.com/aws/aws-sdk-go-v2/service/sso v1.6.1/go.mod h1:/73aFBwUl60wKBKhdth2pE
 github.com/aws/aws-sdk-go-v2/service/sts v1.11.0 h1:gij6WPiL9NznPLiRz9cwBLDS8j80V65lFHnE4ehd0E0=
 github.com/aws/aws-sdk-go-v2/service/sts v1.11.0/go.mod h1:+BmlPeQ1Y+PuIho93MMKDby12PoUnt1SZXQdEHCzSlw=
 github.com/aws/smithy-go v1.9.0/go.mod h1:SObp3lf9smib00L/v3U2eAKG8FyQ7iLrJnQiAmR5n+E=
-github.com/aws/smithy-go v1.11.0 h1:nOfSDwiiH232f90OuevPnAEQO5ZqH+xnn8uGVsvBCw4=
 github.com/aws/smithy-go v1.11.0/go.mod h1:3xHYmszWVx2c0kIwQeEVf9uSm4fYZt67FBJnwub1bgM=
+github.com/aws/smithy-go v1.11.1 h1:IQ+lPZVkSM3FRtyaDox41R8YS6iwPMYIreejOgPW49g=
+github.com/aws/smithy-go v1.11.1/go.mod h1:3xHYmszWVx2c0kIwQeEVf9uSm4fYZt67FBJnwub1bgM=
 github.com/awslabs/goformation/v4 v4.19.5 h1:Y+Tzh01tWg8gf//AgGKUamaja7Wx9NPiJf1FpZu4/iU=
 github.com/awslabs/goformation/v4 v4.19.5/go.mod h1:JoNpnVCBOUtEz9bFxc9sjy8uBUCLF5c4D1L7RhRTVM8=
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
