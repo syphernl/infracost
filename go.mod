@@ -134,7 +134,7 @@ require (
 	github.com/iancoleman/orderedmap v0.2.0 // indirect
 	github.com/klauspost/compress v1.13.5 // indirect
 	github.com/mitchellh/go-testing-interface v1.0.0 // indirect
-	github.com/open-policy-agent/opa v0.37.0
+	github.com/open-policy-agent/opa v0.38.1
 	github.com/otiai10/copy v1.7.0
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
 	github.com/ulikunitz/xz v0.5.8 // indirect
