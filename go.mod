@@ -7,7 +7,7 @@ require (
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Rhymond/go-money v1.0.3
-	github.com/aws/aws-sdk-go-v2 v1.14.0
+	github.com/aws/aws-sdk-go-v2 v1.17.1
 	github.com/aws/aws-sdk-go-v2/config v1.10.3
 	github.com/aws/aws-sdk-go-v2/service/autoscaling v1.21.0
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.16.0
@@ -19,7 +19,7 @@ require (
 	github.com/dave/dst v0.26.2
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
-	github.com/google/go-cmp v0.5.7
+	github.com/google/go-cmp v0.5.8
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/hcl2 v0.0.0-20191002203319-fb75b3253c80
 	github.com/huandu/xstrings v1.3.2 // indirect
@@ -49,7 +49,7 @@ require (
 )
 
 require (
-	github.com/aws/aws-sdk-go-v2/service/eks v1.19.0
+	github.com/aws/aws-sdk-go-v2/service/eks v1.24.0
 	github.com/hashicorp/terraform-config-inspect v0.0.0-20210625153042-09f34846faab
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
 )
@@ -59,7 +59,7 @@ require (
 	github.com/apparentlymart/go-textseg v1.0.0 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.6.3 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.8.1 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.5 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.25 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.3.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.8.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.6.0 // indirect
@@ -67,7 +67,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.12.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.6.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.11.0 // indirect
-	github.com/aws/smithy-go v1.11.0 // indirect
+	github.com/aws/smithy-go v1.13.4 // indirect
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
@@ -93,7 +93,7 @@ require (
 
 require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.3.0 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.3.0 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.19 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 )
